@@ -15,6 +15,7 @@ VNBnodes là một nhóm đam mê nghiên cứu Blockchain và Quản trị hệ
 * Opside
 * etc ...
 ### 4. Liên hệ
-* Telegram: https://t.me/VNBnodes
+* Telegram: https://t.me/Vnbnode
 * Substack: https://vnbnodes.substack.com/
+* Twitter: https://twitter.com/vnbnode
 
