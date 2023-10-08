@@ -1,7 +1,7 @@
 VNBnode is a group of professional validators / researchers for blockchain technologies.
 We have members from different places from the world, VNBnode is leading in running validators/nodes for projects.
 Our targets are to contribute and support projects from early stages and along with projects through main-net.
-### 1. Running Nodes - Validators
+### 1. Nodes - Validators
 * Sui,
 * Celestia,
 * Opside,
