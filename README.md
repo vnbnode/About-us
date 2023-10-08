@@ -1,20 +1,22 @@
-VNBnodes là một nhóm đam mê nghiên cứu Blockchain và Quản trị hệ thống mạng
-### 1. Nghiên cứu công nghệ các dự án Blockchain và viết bài
+VNBnode is a group of professional validators / researchers for blockchain technologies.
+We have members from different places from the world, VNBnode is leading in running validators/nodes for projects.
+Our targets are to contribute and support projects from early stages and along with projects through main-net.
+### 1. Running Nodes - Validators
+* Sui,
+* Celestia,
+* Opside,
+* Dymension
+* etc ...
+### 2. Researches and finding hiddengem at early stage
 * Aptos,
-* Casper,
-* Celestia
+* Celestia,
+* Dymension,
+* Opside,
+* Mondad,
+* Nillion,
 * etc ...
-### 2. Làm Testnet các dự án
-* Taiko,
-* Zetachain,
-* Zecrey
-* etc ...
-### 3. Chạy Node - Validator
-* Massa network,
-* Muon network,
-* Opside
-* etc ...
-### 4. Liên hệ
+### 3. Contact
+* Website: https://VNBnode.com
 * Telegram: https://t.me/Vnbnode
 * Substack: https://vnbnodes.substack.com/
 * Twitter: https://twitter.com/vnbnode
