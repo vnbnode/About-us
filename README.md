@@ -2,9 +2,9 @@ VNBnode is a group of professional validators and game developers for blockchain
 
 For PoS chains, we are always as the leading validators/nodes for projects and also support projects by integrating the blockchain into Unity games.
 
-VNBnode has successfully built plenty of cool games on blockchain from testnet to mainnet, we have won top 3 builders for appchain and game on Tanssi.
+VNBnode has successfully built plenty of cool games on blockchain from testnet to mainnet, we have won top 3 builders for appchain and game on Tanssi; top rollapp operators in dymension.
 
-Our targets are to contribute and support projects from early stages and along with projects through main-net.
+As trusted partner of PoS chains, with longterm vision, Our targets are to contribute and support projects from early stages and along with projects in main-net.
 
 ### 1. Nodes - Validators
 * Avail,
