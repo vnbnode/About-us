@@ -1,31 +1,23 @@
-VNBnode is a group of professional validators and game developers for blockchain.
+# Welcome to VNB Solutions
 
-For PoS chains, we are always as the leading validators/nodes for projects and also support projects by integrating the blockchain into Unity games.
-
-VNBnode has successfully built plenty of cool games on blockchain from testnet to mainnet, we have won top 3 builders for appchain and game on Tanssi; top rollapp operators in dymension.
-
-As trusted partner of PoS chains, with longterm vision, Our targets are to contribute and support projects from early stages and along with projects in main-net.
+We empower the decentralized future by delivering end-to-end solutions that blend Web3, AI, Gaming, and Data Infrastructure.
 
 ### 1. Nodes - Validators
-* Avail,
-* Sui,
-* Celestia,
-* Lumoz,
-* Dymension
-* etc ...
+
+VNB offers a robust, enterprise-grade Node Management Service tailored for blockchain networks, developers, and enterprises seeking secure, scalable, and fully automated validator or RPC node infrastructure.
+
 ### 2. Unity Games developing
-* Dymension,
-* Tanssi,
-* 0G,
-* etc ...
-### 3. Researches and finding hiddengem at early stage
-* Aptos,
-* Celestia,
-* Dymension,
-* Opside,
-* Mondad,
-* Nillion,
-* etc ...
+
+As a product studio, we develop our products from scratch to market launch. With our modular systems, we can build customized products as per requirements. Here are samples of our products.
+
+Contact us to see more.
+
+### 3. AI Solutions
+
+Empowering Support, Business, Gaming, and Web3—Smarter, Faster, Easier. At VNB, we build practical, deployable AI solutions that unlock real-time intelligence and automation across multiple industries.
+
+We also provide hands-on training and complete solution handover, ensuring our clients can operate and scale with confidence.
+
 ### 3. Contact
 * Website: https://VNBnode.com
 * Telegram: https://t.me/Vnbnode
