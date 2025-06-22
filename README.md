@@ -1,5 +1,8 @@
 # Welcome to VNB Solutions
 
+![New LOGO 40 x 40](https://github.com/user-attachments/assets/0f35225e-c568-4c97-bd61-5187367ee3b5)
+
+
 We empower the decentralized future by delivering end-to-end solutions that blend Web3, AI, Gaming, and Data Infrastructure.
 
 ### 1. Nodes - Validators
